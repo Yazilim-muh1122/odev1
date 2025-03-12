@@ -1,89 +1,36 @@
-# Project Requirements
+
 
 ## **Gereksinimler**
+# GEREKSİNİMLER
 
-### **Azat Vepakulyyev - Haber Yönetimi**
-
-1. **Haber Ekleme**  
-   Yetkili kullanıcıların (editör/admin) platforma yeni haberler ekleyebilmesini sağlar. Bu süreçte haber başlığı, içerik, kategori ve yayınlanma tarihi gibi bilgiler girilir.
-
-2. **Haber Güncelleme**  
-   Editörlerin mevcut haberleri düzenleyebilmesini sağlar. Bu özellik, hatalı veya eksik bilgiler içeren haberlerin düzeltilmesi için gereklidir.
-
-3. **Haber Silme**  
-   Yetkili kişilerin platformda yer alan eski, yanlış veya yayından kaldırılması gereken haberleri silebilmesini sağlar.
-
-4. **Haber İçeriğine Görsel ve Video Ekleme**  
-   Haberlerin içeriğine görsel, video veya diğer medya ögelerinin eklenmesini sağlar. Bu özellik, haberlerin görsel açıdan daha çekici hale gelmesine yardımcı olur.
-
-5. **Kategori Bazlı Haber Filtreleme**  
-   Kullanıcıların belirli bir kategoriye ait haberleri kolayca bulmalarını sağlar.
-
-6. **Anasayfa’da Son Dakika Haberleri**  
-   En son eklenen veya güncellenen haberlerin anasayfada öne çıkarılmasını sağlar.
-
----
-
-### **Muhittin Dayan - Kullanıcı Yönetimi**
-
-1. **Kullanıcı Kaydı**  
-   Kullanıcıların platformda yeni bir hesap oluşturmasını sağlar.
-
-2. **Kullanıcı Girişi**  
-   Kayıtlı kullanıcıların kimlik doğrulama sürecinden geçerek hesaplarına erişmelerini sağlar.
-
-3. **Şifremi Unuttum**  
-   Kullanıcıların giriş bilgilerini unuttuklarında hesaplarına tekrar erişebilmelerini sağlar.
-
-4. **Profil Sayfası**  
-   Kullanıcıların kişisel bilgilerini görüntüleyip düzenleyebilecekleri bir alan sağlar.
-
-5. **Haber Kaydetme ve Okuma Geçmişi**  
-   Kullanıcıların ilgilerini çeken haberleri kaydedip daha sonra kolayca erişebilmelerini sağlar.
-
-6. **Bildirim Sistemi (Anlık Haber Bildirimleri)**  
-   Kullanıcılara anlık bildirimler gönderilmesini sağlar.
+1. Haber Ekleme
+1. Haber Güncelleme
+1. Haber Silme
+1. Haber İçeriğine Görsel ve Video Ekleme
+1. Kategori Bazlı Haber Filtreleme
+1. Anasayfa’da Son Dakika Haberleri
+1. Kullanıcı Kaydı
+1. Kullanıcı Girişi
+1. Şifremi Unuttum
+1. Profil Sayfası
+1. Haber Kaydetme ve Okuma Geçmişi
+1. Bildirim Sistemi (Anlık Haber Bildirimleri)
+1. Yorum Yapma
+1. Yorumları Şikayet Etme
+1. Haberleri Beğenme (Like/Dislike)
+1. Haberleri Favorilere Ekleme
+1. Sosyal Medya Paylaşım Butonları
+1. En Çok Okunan Haberler Listesi
+1. Admin Paneli (Kullanıcı ve Haber Yönetimi)
+1. Arama Çubuğu
+1. Reklam Ekleme
+1. Reklam Çıkarma
+1. Reklam Güncelleme
+1. Kategoriye Göre Haber Görüntüleme
 
 ---
 
-### **Muhammed Ecer- Etkileşim ve İçerik**
-
-1. **Yorum Yapma**  
-   Kullanıcıların haber içerikleri üzerinde görüşlerini paylaşmalarına olanak tanır.
-
-2. **Yorumları Şikayet Etme**  
-   Kullanıcıların uygunsuz yorumları şikayet etmelerini sağlar.
-
-3. **Haberleri Beğenme (Like/Dislike)**  
-   Kullanıcıların haber içeriklerine olumlu veya olumsuz tepki vermelerini sağlar.
-
-4. **Haberleri Favorilere Ekleme**  
-   Kullanıcıların ilgilerini çeken haberleri kaydedip daha sonra kolayca erişebilmelerini sağlar.
-
-5. **Sosyal Medya Paylaşım Butonları**  
-   Kullanıcıların haber içeriklerini sosyal medya platformlarında kolayca paylaşmalarına olanak tanır.
-
-6. **En Çok Okunan Haberler Listesi**  
-   En fazla görüntülenen haberleri listeleyerek kullanıcıların popüler içeriklere kolayca ulaşmalarını sağlar.
-
----
-
-### **Emre Can Reyhan - Admin Paneli ve Reklam Yönetimi**
-
-1. **Admin Paneli (Kullanıcı ve Haber Yönetimi)**  
-   Platform yöneticilerinin kullanıcı hesaplarını ve haber içeriklerini yönetebilecekleri bir kontrol paneli sağlar.
-
-2. **Arama Çubuğu**  
-   Kullanıcıların platform üzerindeki haberleri anahtar kelimeler aracılığıyla hızlı ve kolay bir şekilde bulmalarını sağlar.
-
-3. **Reklam Ekleme**  
-   Platforma yeni reklamlar eklenmesini sağlar.
-
-4. **Reklam Çıkarma**  
-   Platformda yer alan mevcut reklamların kaldırılmasını sağlar.
-
-5. **Reklam Güncelleme**  
-   Platformda yer alan mevcut reklamların içeriğinde değişiklik yapılmasını sağlar.
-
-6. **Kategoriye Göre Haber Görüntüleme**  
-   Kullanıcıların haberleri belirli kategorilere göre filtreleyip görüntülemelerine olanak tanır.
+- [Azat Vepakulyyev](#)
+- [Muhittin Dayan](#)
+- [Muhammed Ecer](#)
+- [Emre Can Reyhan](#)
