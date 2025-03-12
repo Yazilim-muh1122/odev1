@@ -22,6 +22,10 @@ Siz de gündemi yakalamak ve dünyanın nabzını tutmak için bizimle olun!
 
 ---
 
+- [Gereksinimler](Gereksinimler)
+
+---
+
 - [Azat Vepakulyyev](Azat-Vepakulyyev)
 - [Muhittin Dayan](Muhiddin-Dayan)
 - [Muhammed Ecer](Muhammed-Ecer)
