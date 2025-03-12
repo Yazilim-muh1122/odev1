@@ -30,7 +30,7 @@
 
 ---
 
-- [Azat Vepakulyyev](#)
+- [Azat Vepakulyyev](Azat-Vepakulyyev)
 - [Muhittin Dayan](#)
 - [Muhammed Ecer](#)
 - [Emre Can Reyhan](#)
