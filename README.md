@@ -31,6 +31,6 @@
 ---
 
 - [Azat Vepakulyyev](Azat-Vepakulyyev)
-- [Muhittin Dayan](#)
-- [Muhammed Ecer](#)
-- [Emre Can Reyhan](#)
+- [Muhittin Dayan](Muhiddin-Dayan)
+- [Muhammed Ecer](Muhammed-Ecer)
+- [Emre Can Reyhan](Emre-Can-Reyhan)
