@@ -1,32 +1,24 @@
+**UçanKuŞHaber**
 
+Haberlerinizin Doğru ve Tarafsız Adresi: UçanKuŞHaber
 
-## **Gereksinimler**
-# GEREKSİNİMLER
+UçanKuŞHaber, güncel haberleri en hızlı ve doğru şekilde sunmak için tasarlandı. Kullanıcı dostu arayüzümüz sayesinde, ziyaretçilerimiz gündemin nabzını kolayca tutabilir ve aradıkları haberlere hızlıca ulaşabilirler.
 
-1. Haber Ekleme
-1. Haber Güncelleme
-1. Haber Silme
-1. Haber İçeriğine Görsel ve Video Ekleme
-1. Kategori Bazlı Haber Filtreleme
-1. Anasayfa’da Son Dakika Haberleri
-1. Kullanıcı Kaydı
-1. Kullanıcı Girişi
-1. Şifremi Unuttum
-1. Profil Sayfası
-1. Haber Kaydetme ve Okuma Geçmişi
-1. Bildirim Sistemi (Anlık Haber Bildirimleri)
-1. Yorum Yapma
-1. Yorumları Şikayet Etme
-1. Haberleri Beğenme (Like/Dislike)
-1. Haberleri Favorilere Ekleme
-1. Sosyal Medya Paylaşım Butonları
-1. En Çok Okunan Haberler Listesi
-1. Admin Paneli (Kullanıcı ve Haber Yönetimi)
-1. Arama Çubuğu
-1. Reklam Ekleme
-1. Reklam Çıkarma
-1. Reklam Güncelleme
-1. Kategoriye Göre Haber Görüntüleme
+Sitemizde, siyaset, ekonomi, spor, magazin, teknoloji ve daha pek çok kategoride güncel haberler yer almaktadır. Her bir haber, alanında uzman editörlerimiz tarafından özenle hazırlanır ve doğruluk ilkesiyle yayınlanır. Okuyucularımıza güvenilir ve tarafsız haber sunmayı ilke edinmiş durumdayız.
+
+UçanKuŞHaber olarak, sadece haberleri sunmakla kalmıyor; farklı bakış açıları ve analizlerle de haberleri derinlemesine ele alıyoruz. Kullanıcılarımız, öne çıkan haberleri ve son dakika gelişmelerini anında takip ederken, yorum ve görüşlerini de paylaşabilecekleri etkileşimli bir platformun keyfini yaşıyor.
+
+Hızlı erişim, güvenli gezinme ve sade tasarımıyla UçanKuŞHaber, haber okuma deneyiminizi bir adım öteye taşıyor. Her an, her yerde gündemi takip etmek için UçanKuŞHaber’e hoş geldiniz.
+
+Siz de gündemi yakalamak ve dünyanın nabzını tutmak için bizimle olun!
+
+**Proje Kategorisi:** Haber Sitesi
+
+**Referans Uygulama:** [Haberler.com](https://www.haberler.com/)
+
+**Grup Adı:** News Oracles
+
+**Proje Ekibi:** Muhittin Dayan, Muhammed Ecer, Emre Can Reyhan, Azat Vepakulyyev
 
 ---
 
