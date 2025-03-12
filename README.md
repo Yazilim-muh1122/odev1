@@ -26,7 +26,7 @@ Siz de gündemi yakalamak ve dünyanın nabzını tutmak için bizimle olun!
 
 ---
 
-- [Azat Vepakulyyev](Azat-Vepakulyyev)
-- [Muhittin Dayan](Muhittin-Dayan)
-- [Muhammed Ecer](Muhammed-Ecer)
-- [Emre Can Reyhan](Emre-Can-Reyhan)
+- [Azat Vepakulyyev](Azat-Vepakulyyev-GEREKSİNİMLER)
+- [Muhittin Dayan](Muhittin-Dayan-GEREKSİNİMLER)
+- [Muhammed Ecer](Muhammed-Ecer-GEREKSİNİMLER)
+- [Emre Can Reyhan](Emre-Can-Reyhan-GEREKSİNİMLER)
